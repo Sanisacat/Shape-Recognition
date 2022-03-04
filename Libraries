@@ -1,0 +1,5 @@
+These are the libraries required to be downloaded:
+
+1. pip install opencv_python
+2. pip install flask_ngrok
+3. pip install pyngrok
